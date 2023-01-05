@@ -1,0 +1,43 @@
+{
+    "GOOGL":{
+
+        "Symbol": "APPL",
+        "Name": "Apple",
+        "Founder": "Steve Jobs",
+        "Description": "Apple Inc.",
+        "Country": "United States",
+        "Date of Birth": "1976",
+        "Industry": "Technology",
+    "Market Value": "$2.46 trillion",
+    "Dates": [],
+    "Price History": {
+        "Currency": "USD",
+        "open": [],
+        "close": [],
+        "high": [],
+        "low": []
+    },
+    "Volumes": []
+    },
+    "AAPL" : {
+
+        "Symbol": "APPL",
+        "Name": "Apple",
+        "Founder": "Steve Jobs",
+        "Description": "Apple Inc.",
+        "Country": "United States",
+        "Date of Birth": "1976",
+        "Industry": "Technology",
+    "Market Value": "$2.46 trillion",
+    "Dates": [],
+    "Price History": {
+        "Currency": "USD",
+        "open": [],
+        "close": [],
+        "high": [],
+        "low": []
+    },
+    "Volumes": []
+    }
+
+}
