@@ -1,43 +1,21 @@
 {
-    "GOOGL":{
+    "Symbol": {
 
-        "Symbol": "APPL",
-        "Name": "Apple",
-        "Founder": "Steve Jobs",
-        "Description": "Apple Inc.",
-        "Country": "United States",
-        "Date of Birth": "1976",
-        "Industry": "Technology",
-    "Market Value": "$2.46 trillion",
-    "Dates": [],
-    "Price History": {
-        "Currency": "USD",
-        "open": [],
-        "close": [],
-        "high": [],
-        "low": []
-    },
-    "Volumes": []
-    },
-    "AAPL" : {
-
-        "Symbol": "APPL",
-        "Name": "Apple",
-        "Founder": "Steve Jobs",
-        "Description": "Apple Inc.",
-        "Country": "United States",
-        "Date of Birth": "1976",
-        "Industry": "Technology",
-    "Market Value": "$2.46 trillion",
-    "Dates": [],
-    "Price History": {
-        "Currency": "USD",
-        "open": [],
-        "close": [],
-        "high": [],
-        "low": []
-    },
-    "Volumes": []
+        "Name": "Company Name",
+        "Founder": "Founder Name",
+        "Description": "Company Full Name",
+        "Country": "Company Based Country",
+        "Date of Birth": "Date of Foundation",
+        "Industry": "Industry of the Company",
+        "Market Value": "Market value of the Company in us dollar",
+        "Dates": ["Lits of the dates history"],
+        "Price History": {
+            "Currency": "Prices Currency",
+            "open": ["List of All Open Prices"],
+            "close": ["List of All Close Prices"],
+            "high": ["List of All High Prices"],
+            "low": ["List of All Low Prices"]
+        },
+        "Volumes": ["List of All Transaction volume of the Company"]
     }
-
 }
